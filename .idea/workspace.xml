@@ -96,7 +96,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Twitter/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -205,15 +205,15 @@
       <workItem from="1520264246502" duration="28722000" />
       <workItem from="1520398087384" duration="5293000" />
       <workItem from="1520403476728" duration="413000" />
-      <workItem from="1520403902735" duration="26885000" />
+      <workItem from="1520403902735" duration="26964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61313000" />
+    <option name="totallyTimeSpent" value="61392000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20073763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
